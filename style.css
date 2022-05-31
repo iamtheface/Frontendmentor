@@ -36,7 +36,7 @@ body {
   background: hsl(178, 100%, 50%);
 }
 
-.card h4 {
+.card h1 {
   margin: 10px 0;
   color: hsl(0, 0%, 100%);
   font-weight: 600;
